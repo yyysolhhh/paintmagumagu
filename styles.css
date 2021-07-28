@@ -69,10 +69,12 @@ body {
 
 .controls .controls_colors .top {
   display: flex;
+  flex-direction: row;
 }
 
 .controls .controls_colors .bottom {
   display: flex;
+  flex-direction: row;
 }
 
 .controls_colors .controls_color {
