@@ -64,6 +64,15 @@ body {
 
 .controls .controls_colors {
   display: flex;
+  flex-direction: column;
+}
+
+.controls .controls_colors .top {
+  display: flex;
+}
+
+.controls .controls_colors .bottom {
+  display: flex;
 }
 
 .controls_colors .controls_color {
